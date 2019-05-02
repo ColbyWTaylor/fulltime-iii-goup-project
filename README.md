@@ -35,3 +35,10 @@ The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-
 python3 -m http.server 3000
 
 Replicate this page: https://raw.githubusercontent.com/breatheco-de/exercise-git-collabration/master/website1/designs/guide.jpg
+
+contact: João & Hernan
+first_heading: Tiarra, Martin and Vanessa
+navbar: Natalia & Webb
+portfolio: tbd
+services: tbd
+tagline: tbd
