@@ -1,6 +1,7 @@
 body{
     background: #BDBDBD;
 }
+<<<<<<< HEAD
 #tagline {
     font-family:Rock Salt;
 }
@@ -12,4 +13,8 @@ body{
 }
 #title {
     box-shadow: 10px 10px #333333;
+=======
+#servicesimage {
+    width: 75%;
+>>>>>>> 9841a1032d77400d5957c82a1b1a64ebf0b5e28e
 }
