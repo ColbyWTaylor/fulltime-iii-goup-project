@@ -1,4 +1,4 @@
-# Git Collabotarive
+# Git Collaborative
 
 Use this project to practice your students skills in GIT while developing a porfolio website.
 
@@ -36,9 +36,9 @@ python3 -m http.server 3000
 
 Replicate this page: https://raw.githubusercontent.com/breatheco-de/exercise-git-collabration/master/website1/designs/guide.jpg
 
-contact: João & Hernan
-first_heading: Tiarra, Martin and Vanessa
-navbar: Natalia & Webb
-portfolio: tbd
-services: tbd
-tagline: tbd
+navbar: João
+tagline: Hernan
+first_heading: Tiarra
+services: Martin
+portfolio: Vanessa
+contact: Natalia & Webb
